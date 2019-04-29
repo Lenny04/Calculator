@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0710"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -17,7 +17,7 @@
                BlueprintIdentifier = "14ADA8CD1BE0D34300BFBF6D"
                BuildableName = "FirstProjectSwift.app"
                BlueprintName = "FirstProjectSwift"
-               ReferencedContainer = "container:FirstProjectSwift.xcodeproj">
+               ReferencedContainer = "container:Calculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "14ADA8E11BE0D34300BFBF6D"
                BuildableName = "FirstProjectSwiftTests.xctest"
                BlueprintName = "FirstProjectSwiftTests"
-               ReferencedContainer = "container:FirstProjectSwift.xcodeproj">
+               ReferencedContainer = "container:Calculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "14ADA8EC1BE0D34300BFBF6D"
                BuildableName = "FirstProjectSwiftUITests.xctest"
                BlueprintName = "FirstProjectSwiftUITests"
-               ReferencedContainer = "container:FirstProjectSwift.xcodeproj">
+               ReferencedContainer = "container:Calculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,7 +55,7 @@
             BlueprintIdentifier = "14ADA8CD1BE0D34300BFBF6D"
             BuildableName = "FirstProjectSwift.app"
             BlueprintName = "FirstProjectSwift"
-            ReferencedContainer = "container:FirstProjectSwift.xcodeproj">
+            ReferencedContainer = "container:Calculator.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "14ADA8CD1BE0D34300BFBF6D"
             BuildableName = "FirstProjectSwift.app"
             BlueprintName = "FirstProjectSwift"
-            ReferencedContainer = "container:FirstProjectSwift.xcodeproj">
+            ReferencedContainer = "container:Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,7 +97,7 @@
             BlueprintIdentifier = "14ADA8CD1BE0D34300BFBF6D"
             BuildableName = "FirstProjectSwift.app"
             BlueprintName = "FirstProjectSwift"
-            ReferencedContainer = "container:FirstProjectSwift.xcodeproj">
+            ReferencedContainer = "container:Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
